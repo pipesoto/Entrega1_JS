@@ -4,7 +4,7 @@
 1.Se debe presionar botón (entrar al supermercado) para iniciar el carrito 
 2.Se desplegará un menú con las acciones disponibles
 3.Las acciones disponibles son: comprar - pagar - salir.
-4.Para comprar debes seleccionar opcion 1 o escribir comprar.
+4.Para comprar debes seleccionar opcion 1 .
 5.Se desplegarás los productos disponibles 
 6.Para seleccionar debes escribrir el producto y la categoría
 7.Debes ingresar cantidad de productos
